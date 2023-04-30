@@ -1,0 +1,4 @@
+public perfect
+{
+	main
+}
