@@ -1,4 +1,4 @@
 public perfect
 {
-	main
+	main class
 }
